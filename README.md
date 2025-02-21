@@ -21,7 +21,7 @@ The project involves exploratory data analysis (EDA) on the Telco Customer Churn
  **Insight:** **45.2%** of customers paying via **electronic check** churned.  
  **Action:** Encourage auto-pay options with incentives.  
 
- **Insight:** Customers with **monthly charges above $70** had a **41.1% churn rate**.  
+ **Insight:** Customers with **month to month contract** had a **41.1% churn rate**.  
  **Action:** Optimize pricing models and offer loyalty rewards.  
 
 **Results:** Data-driven retention strategies to reduce churn and enhance customer lifetime value.
